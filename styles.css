@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+.d{
+	text-align:center
+}
+h1{
+	font-size:50px;
+	margin:2px
+}
+p{
+	font-size:30px;
+	margin:2px
+}
+button{
+	background-color:red;
+	color:white;
+	padding:20px;
+	border-radius:10%;
+	border:none;
+	margin:5px
+}
